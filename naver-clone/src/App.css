@@ -240,3 +240,8 @@
   width: 25px;
   height: 25px;
 }
+
+#search-button:hover {
+  background-color: var(--color_option_bg);
+  border-radius: 50%;
+}
