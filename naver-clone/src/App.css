@@ -75,7 +75,7 @@
 }
 
 #wrap-center {
-  display: inline-block;
+  display: inline-flex;
   width: 1280px;
   background-color: yellow;
 }
